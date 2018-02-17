@@ -1,6 +1,0 @@
-defaults:
-  # _docs
-     - title: "Utility Classes"
-        url: DIY/OpenSyringePumps/software
-      sidebar:
-        nav: "oops"
