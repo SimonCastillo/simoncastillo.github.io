@@ -36,8 +36,7 @@
                             <label control="id2" value="Nombre"/>
                             <textbox value=""/>
                         </hbox>
-
-                        <hbox>
+                      <hbox>
                             <label control="id3" value="Nacionalidad"/> 
                             <menulist>
                                 <menupopup>
@@ -45,19 +44,16 @@
                                 </menupopup>
                             </menulist>
                         </hbox>
-
                         <hbox>
                             <label control="id3" value="Pseudonimo"/>  
                             <textbox value=""/>                                  
                         </hbox>
                     </vbox>
-
                     <vbox>
                         <hbox>
                             <label control="id4" value="Ocupacion"/>
                             <textbox value=""/>
                         </hbox>
-
                         <hbox>
                             <label control="id3" value="Genero" />
                             <listbox>
@@ -65,7 +61,6 @@
                                 <listitem value="2" label="Satira"/>
                                 <listitem value="3" label="Aventuras"/>
                             </listbox>
-
                         </hbox>
                     </vbox>
                 </hbox>
@@ -95,15 +90,12 @@
                         <listcell label="2da"/>
                     </listitem>
                 </listbox>
-
-                <hbox pack="center">
+               <hbox pack="center">
                     <button label="OK"/>
                     <button label="Cancel"/>
                 </hbox>
             </vbox>           
-
         </tabpanel>
-
         <tabpanel>
             <vbox>
                 <label control="id1" value="Detalle del libro"/>
@@ -112,13 +104,10 @@
                         <label control="id1" value="Nombre"/>
                         <textbox value=""/>
                     </hbox>
-
                     <hbox >
                         <label control="id1" value="ISBN"/>
                         <textbox value=""/>
                     </hbox>
-
-
                     <hbox >
                         <hbox>
                             <label control="id1" value="AÑO"/>
@@ -128,7 +117,6 @@
                                 </menupopup>
                             </menulist>
                         </hbox>
-
                         <hbox>
                             <label control="id1" value="Edicion"/>
                             <menulist>
@@ -137,30 +125,25 @@
                                 </menupopup>
                             </menulist>
                         </hbox>
-                    </hbox>
-                   
+                  </hbox>     
                     <hbox>
                         <vbox>
                             <hbox>                           
                                 <label control="id1" value="Editorial"/>
                                 <label control="id1" value="Ediciones Alfaguara"/>
                             </hbox>
-
                             <hbox>                          
                                 <label control="id1" value="Edicion"/>
                                 <listbox>
                                     <listitem value="1" label="Mark Twain"/>
                                 </listbox>
                             </hbox>
-
                         </vbox>
-
                         <vbox>
                            <button label="Cambiar Editorial"/>
                            <button label="Agregar Autor"/>
                            <button label="Eliminar Autor"/>
                         </vbox>
-
                     </hbox>
                     <splitter/>
                     <hbox pack="center">
@@ -170,13 +153,10 @@
                 </vbox>
             </vbox>
         </tabpanel>
-
         <tabpanel>
-
         </tabpanel>
     </tabpanels>
 </tabbox>
 </vbox>
-
 </hbox>
 </window>
