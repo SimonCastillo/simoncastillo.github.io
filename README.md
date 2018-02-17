@@ -2,8 +2,6 @@
 <?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
 <window xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
 <hbox>
-
-
 <vbox>
                 <button label="Autores"/>
                 <hbox>
@@ -18,7 +16,6 @@
                 <button label="Libros"/>
                 <button label="Editoriales"/>
                 <button label="Clasificacion"/> </vbox>
-
 <vbox>
 <tabbox id="tabboxid" flex="1">
     <tabs>
