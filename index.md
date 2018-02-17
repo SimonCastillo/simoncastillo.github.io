@@ -1,6 +1,5 @@
 <p style="color:#990099;font-size:34px;"> <b>Simon P. Castillo</b></p>
-<p style="color:#990099;font-size:28px;"> PhD student Ecology Program @PUC</p>
-<p style="color:#990099;font-size:28px;"> spcastil@uc.cl</p>
+<p style="color:#990099"> PhD student Ecology Program @PUC <br>spcastil@uc.cl</p>
 
 ## Own life history evolution
 <p align="justify">
