@@ -1,4 +1,5 @@
- <p style="color:#990099;font-size:36px;"> Science | Photography | Music | DIY</p>
+ <p style="color:#990099;font-size:34px;"> <b>Science | Photography  
+ Music | DIY</b></p>
   
 
 ## Own life history evolution
