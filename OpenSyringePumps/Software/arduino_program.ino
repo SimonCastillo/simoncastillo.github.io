@@ -1,10 +1,11 @@
 ```javascript
 
-/* This code controls two stepper motors using a potentiometer to 
- * control speed and a push button to set the turning direction of the 
- * motor. 
-* By Simon Castillo spcastil@uc.cl
- */
+	/* This code controls two stepper motors using a potentiometer to 
+ 	* control speed and a push button to set the turning direction of the 
+ 	* motor. 
+	* By Simon Castillo spcastil@uc.cl
+	* NOTE: you have to delete ```javascript (line 1) and ``` (line 128) before use this program
+ 	*/
  
  #include <AccelStepper.h>
 
