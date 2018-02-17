@@ -1,4 +1,6 @@
- /* This code controls two stepper motors using a potentiometer to 
+```javascript
+
+/* This code controls two stepper motors using a potentiometer to 
  * control speed and a push button to set the turning direction of the 
  * motor. 
 * By Simon Castillo spcastil@uc.cl
@@ -122,3 +124,4 @@ int speedUp_gr() {
   int newCustom_gr = map(customDelay_gr, 0, 1023, 0,2000); 
   return newCustom_gr;  
   }
+```
