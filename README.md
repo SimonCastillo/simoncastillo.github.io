@@ -1,6 +1,4 @@
-# Ecologist | Photographer 
-# Musical producer | Other 
-<i>(All under construction)</i>
+# Science | Photography | Music | DIY  
 
 ## Own life history evolution
 
