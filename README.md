@@ -5,7 +5,6 @@
 
 
 <vbox>
-
                 <button label="Autores"/>
                 <hbox>
                     <button label="Nuevo" flex="1" />
@@ -18,9 +17,7 @@
                 </listbox>
                 <button label="Libros"/>
                 <button label="Editoriales"/>
-                <button label="Clasificacion"/>
-
-</vbox>
+                <button label="Clasificacion"/> </vbox>
 
 <vbox>
 <tabbox id="tabboxid" flex="1">
