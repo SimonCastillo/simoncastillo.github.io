@@ -1,13 +1,5 @@
-title: Simon Castillo
+title: Minimal theme
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-# 
-# _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
