@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <p style="color:#990099;font-size:34px;"> <b>Science | DIY <br> Music | Photography</b></p>
   
 
