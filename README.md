@@ -1,51 +1,12 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-{% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <meta name="viewport" content="width=device-width"> 
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <a href="{{ site.github.url }}"> <h1>{{ site.title | default: site.github.repository_name }}</h1> </a>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
-        {% endif %}
-        {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-        {% if site.show_downloads %}
-          <ul>
-            <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-            <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-            <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-          </ul>
-        {% endif %}
-      </header>
-      <section>
-      {{ content }}
-      </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-  {% if site.google_analytics %}
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-    </script>
-  {% endif %}
-  </body>
-</html>
+<p style="color:#990099;font-size:34px;"> <b>Science | DIY <br> Music | Photography</b></p>
+  
+
+## Own life history evolution
+<p align="justify">
+Endemic from <a href= "https://www.youtube.com/watch?v=NcyXbcsTLtU">Santiago</a>, Chile. I've spent almost my whole life in Santiago. I studied Biology at the <a href = "http://biologia.uc.cl/es/">School of  Biological Sciences</a> @ <a href= "http://www.uc.cl/"> Pontifical Catholic University of Chile</a> between 2009-2013. During that time, I worked doing traditional experimental eco-physiology @ <a href ="http://labecofisiouc.wixsite.com/ecofisio"> Pancho Bozinovic's Lab</a>, and also volunteering as field technician during the summers in Southern Chile monitoring terrestrial carnivores populations. The last year of my undergrad, I went to Navarno Island for a year, I worked <a href = "http://www.labwankara.com/">@Wankara Lab</a> monitoring freshwater insect populations as indicators of Global Warming and also, monitoring the introduced population of the American mink (<i>Neovison vison</i>) in Patagonia. 
+</p>
+## Current interests
+<p align="justify">
+In March, 2016, I got back to the 'civilization', starting a PhD @ Catholic University, under the supervision of <a href = "http://biologia.uc.cl/es/cuerpo-academico/profesor/45"> Pablo Marquet</a> and <a href = "http://biologia.uc.cl/es/cuerpo-academico/profesor/40">Juan Keymer</a>, I started my PhD project aiming to understand the ecology of an invasive strategy, such as cancer, within the human ecosystem.<br>
+  Other approaches that I do to get closer of natural manifestations is though photography, I enjoy trekking and nature wildlife photographs (I have a bias to animals above plants or landscapes) and also I love to mix some sounds, producing something of Experimental music.<br>
+  Also, a bit closer to electronic stuffs, I'm just discovering DIY technologies, so I'll try to post my advances here, of course I belive in open access, then use/share/edit all you find here, as you wish.
