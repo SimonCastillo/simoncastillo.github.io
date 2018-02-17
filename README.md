@@ -1,11 +1,7 @@
-# The Minimal theme
-
-*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
-
  <p style="color:#990099;font-size:34px;"> <b>Science | DIY <br> Music | Photography</b></p>
   
 
-## Own life history evolution
+## Own life history evolution :)
 <p align="justify">
 Endemic from <a href= "https://www.youtube.com/watch?v=NcyXbcsTLtU">Santiago</a>, Chile. I've spent almost my whole life in Santiago. I studied Biology at the <a href = "http://biologia.uc.cl/es/">School of  Biological Sciences</a> @ <a href= "http://www.uc.cl/"> Pontifical Catholic University of Chile</a> between 2009-2013. During that time, I worked doing traditional experimental eco-physiology @ <a href ="http://labecofisiouc.wixsite.com/ecofisio"> Pancho Bozinovic's Lab</a>, and also volunteering as field technician during the summers in Southern Chile monitoring terrestrial carnivores populations. The last year of my undergrad, I went to Navarno Island for a year, I worked <a href = "http://www.labwankara.com/">@Wankara Lab</a> monitoring freshwater insect populations as indicators of Global Warming and also, monitoring the introduced population of the American mink (<i>Neovison vison</i>) in Patagonia. 
 </p>
