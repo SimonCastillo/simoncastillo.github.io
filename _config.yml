@@ -6,10 +6,10 @@ theme: jekyll-theme-minimal
 toc: true
 ---
 defaults:
-  # _docs
+  # _posts
   - scope:
       path: ""
-      type: docs
+      type: posts
     values:
-      sidebar:
-        nav: "docs"
+    author_profile: true
+   
