@@ -7,6 +7,6 @@ Endemic from <a href= "https://www.youtube.com/watch?v=NcyXbcsTLtU">Santiago</a>
 </p>
 ## Current interests
 <p align="justify">
-In March, 2016, I got back to the 'civilization', starting a PhD @ Catholic University, under the supervision of <a href = "http://biologia.uc.cl/es/cuerpo-academico/profesor/45"> Pablo Marquet</a> and <a href = "http://biologia.uc.cl/es/cuerpo-academico/profesor/40">Juan Keymer</a>, I started my PhD project aiming to understand the ecology of an invasive strategy, such as cancer, within the human ecosystem.
-  Other approaches that I do to get closer of natural manifestations is though photography, I enjoy trekking and nature wildlife photographs (I have a bias to animals above plants or landscapes) and also I love to mix some sounds, producing something of Experimental music.
+In March, 2016, I got back to the 'civilization', starting a PhD @ Catholic University, under the supervision of <a href = "http://biologia.uc.cl/es/cuerpo-academico/profesor/45"> Pablo Marquet</a> and <a href = "http://biologia.uc.cl/es/cuerpo-academico/profesor/40">Juan Keymer</a>, I started my PhD project aiming to understand the ecology of an invasive strategy, such as cancer, within the human ecosystem.<br>
+  Other approaches that I do to get closer of natural manifestations is though photography, I enjoy trekking and nature wildlife photographs (I have a bias to animals above plants or landscapes) and also I love to mix some sounds, producing something of Experimental music.<br>
   Also, a bit closer to electronic stuffs, I'm just discovering DIY technologies, so I'll try to post my advances here, of course I belive in open access, then use/share/edit all you find here, as you wish.
