@@ -5,10 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
 {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+    <meta name="viewport" content="width=device-width"> 
   </head>
   <body>
     <div class="wrapper">
@@ -40,8 +37,6 @@
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-
-
   {% if site.google_analytics %}
     <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
