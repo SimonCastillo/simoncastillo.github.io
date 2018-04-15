@@ -10,3 +10,7 @@ defaults:
     values:
     author_profile: true
    
+flickr:
+  screen_name: You
+  api_key: 53e7f6434beebf661f5e866970c1bb66
+  api_secret: c0f66a3c0ff48f5f
